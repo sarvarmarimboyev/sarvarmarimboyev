@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/azizbek-mukhtorov/" target="_blank"> Azizbek Mukhtorov </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/sarvar-marimboyev-a1253020a/" target="_blank"> Sarvar Marimboev </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Front+End+Developer+%3A)+Wrestler" /> </h3>
 
 - 🌱 Learning Never Stops 🚀

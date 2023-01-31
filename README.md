@@ -63,3 +63,8 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarmarimboyev&theme=dark" alt="sarvarmarimboyev" /></p>
   </div>
+<br/>
+<p align="left"> 
+  <h3>Visitor count</h3>
+  <img src="https://profile-counter.glitch.me/azmu0520/count.svg" />
+</p>
